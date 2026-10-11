@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "POO Mobile - Exerc\u00edcios",
+    "slug": "poo-mobile-exercicios",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.po.mobileexercicios"
+    }
+  }
+}
